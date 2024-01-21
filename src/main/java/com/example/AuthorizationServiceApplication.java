@@ -1,4 +1,4 @@
-package com.example.authorizationservice;
+package com.example;
 
 import com.example.controllers.AuthorizationController;
 import com.example.repository.UserRepository;
